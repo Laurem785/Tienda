@@ -5,6 +5,10 @@ body {
     background-color: #d4efdf;
 }
 
+img:hover{
+    transform: scale(1.9);
+}
+
 header {
     background: #117864 ;
    
