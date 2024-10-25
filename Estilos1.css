@@ -106,7 +106,7 @@ nav form input: :placeholder {
 }
 
 .boton-animado {
-            background-color: #a3be52;
+            background-color: #117864;
             color: black;
             padding: 12px 24px;
             font-size: 16px;
@@ -118,7 +118,7 @@ nav form input: :placeholder {
         }
         
         .boton-animado:hover {
-            background-color: #a3be52;
+            background-color: #117864;
         }
 
         .boton-animado:active {
