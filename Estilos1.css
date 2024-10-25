@@ -11,7 +11,6 @@ img:hover{
 
 header {
     background: #117864 ;
-   
     color: black;
     padding: 20px;
     text-align: center;
@@ -106,3 +105,22 @@ nav form input: :placeholder {
     color: #fff;
 }
 
+.boton-animado {
+            background-color: #a3be52;
+            color: black;
+            padding: 12px 24px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        
+        .boton-animado:hover {
+            background-color: #a3be52;
+        }
+
+        .boton-animado:active {
+            transform: scale(0.95);
+        }
